@@ -19,15 +19,15 @@ performance of the processor
 <img width="335" height="69" alt="image" src="https://github.com/user-attachments/assets/fa8c7a6b-c7b6-4225-a4ab-4726262c9de3" />
 This project implements a 32-bit RISC-V single-cycle processor using Verilog HDL. The processor follows the basic RISC-V instruction execution flow:
 
-✅ Instruction Fetch (IF)
-✅ Instruction Decode (ID)
-✅ Execute (EX)
-✅ Memory Access (MEM)
-✅ Write Back (WB)
+Instruction Fetch (IF)
+Instruction Decode (ID)
+Execute (EX)
+Memory Access (MEM)
+Write Back (WB)
 
 The design is simulated and verified in Xilinx Vivado (XSim) using a .mem file for instruction memory initialization. The processor successfully executes arithmetic, logical, memory, branch, and jump instructions.
 
-✨ Features
+ Features:
 
 32-bit RISC-V datapath
 
@@ -51,7 +51,7 @@ Jump (JAL)
 
 Upper Immediate (LUI)
 
-🧩 Block Level Description
+Block Level Description:
 
 The processor is designed using the following blocks:
 
