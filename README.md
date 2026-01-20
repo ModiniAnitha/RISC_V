@@ -16,3 +16,4 @@ the speed execution. Thus, the RISC processor is
 developed, and a small set of instructions results in
 simplifies the design and improves the overall
 performance of the processor
+<img width="335" height="69" alt="image" src="https://github.com/user-attachments/assets/fa8c7a6b-c7b6-4225-a4ab-4726262c9de3" />
